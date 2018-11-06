@@ -1,7 +1,7 @@
 # terminology-theme-pack
 Color schemes for the Terminology terminal emulator.
 
-Charles Milette's collection of Terminology Themes, as packaged by Bodhi Linux.
+[Charles Milette's collection of Terminology Themes](https://github.com/sylveon/terminology-themes), as packaged by Bodhi Linux.
 
 Previews are available [on his website](https://charlesmilette.net/terminology-themes).
 
