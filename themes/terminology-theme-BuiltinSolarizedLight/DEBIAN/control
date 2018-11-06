@@ -1,0 +1,11 @@
+Package: terminology-theme-builtinsolarizedlight
+Version: 0.1.1bodhi1-1
+Section: misc
+Priority: optional
+Depends: terminology
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Description: Builtinsolarizedlight theme for Terminology
+ A color scheme for the Terminology terminal emulator.
+ .
+ see https://charlesmilette.net/terminology-themes/
