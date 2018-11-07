@@ -15,6 +15,18 @@ The tab appearance is a WIP. If anyone with better knowledge of EDC than me want
 
 ## Installation
 
+Users of Bodhi linux 4.x or 5.x can install all themes by:
+
+```sudo apt update
+sudo apt install terminology-theme-pack
+```
+
+Since each theme is indivually packaged in Bodhi, single  themes can be also be installed for user not wanting all 185 themes. For example, to install the theme solarizeddark:
+
+```sudo apt update
+sudo apt install terminology-theme-solarizeddark
+```
+
 **Note**: A package might be available for your distro. Scroll down to the [packages section](#packages) to find it out.
 
 
