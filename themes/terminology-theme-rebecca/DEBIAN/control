@@ -1,0 +1,13 @@
+Package: terminology-theme-rebecca
+Version: 0.1.1bodhi1-1
+Section: misc
+Priority: optional
+Depends: terminology
+Architecture: all
+Maintainer: Robert Wiley <ylee@bodhilinux.com>
+Description: Terminology-theme-rebecca theme for Terminology
+ A color scheme for the Terminology terminal emulator.
+ .
+ A dark theme with purple/violet colors.
+ .
+ see https://charlesmilette.net/terminology-themes/
