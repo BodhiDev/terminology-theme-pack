@@ -5,7 +5,7 @@ Priority: optional
 Depends: terminology
 Architecture: all
 Maintainer: Robert Wiley <ylee@bodhilinux.com>
-Description: Terminology-theme-rebecca theme for Terminology
+Description: Rebecca theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
  A dark theme with purple/violet colors.

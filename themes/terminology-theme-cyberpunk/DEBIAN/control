@@ -5,7 +5,7 @@ Priority: optional
 Depends: terminology
 Architecture: all
 Maintainer: Robert Wiley <ylee@bodhilinux.com>
-Description: Terminology-theme-cyberpunk theme for Terminology
+Description: Cyberpunk theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
  see https://charlesmilette.net/terminology-themes/

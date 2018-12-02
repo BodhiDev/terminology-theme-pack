@@ -5,7 +5,7 @@ Priority: optional
 Depends: terminology
 Architecture: all
 Maintainer: Robert Wiley <ylee@bodhilinux.com>
-Description: Terminology-theme-relaxed theme for Terminology
+Description: Relaxed theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
  see https://charlesmilette.net/terminology-themes/
