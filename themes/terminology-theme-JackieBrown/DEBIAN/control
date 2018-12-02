@@ -8,4 +8,8 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Jackiebrown theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ The overall coloring is yellow on dark brown background with 
+ seventies-style color palette. Inspired by the colors from 
+      http://bower.io website and tweaked somewhat.
+ .
  see https://charlesmilette.net/terminology-themes/

@@ -8,4 +8,13 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Solarizeddarkhighercontrast theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
- see https://charlesmilette.net/terminology-themes/
+ A tweaked version of the Solarized theme for higher contrast.
+ .
+ Solarized is a sixteen color palette (eight monotones, eight accent colors)
+ designed for use with terminal and gui applications.
+ .
+ For more on Solarized themes in general see:
+     https://ethanschoonover.com/solarized/
+ .
+ For more on the terminology themes see:
+     https://charlesmilette.net/terminology-themes/

@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Wombat theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ This is a port of vim's Wombat256 color theme.
+ .
  see https://charlesmilette.net/terminology-themes/

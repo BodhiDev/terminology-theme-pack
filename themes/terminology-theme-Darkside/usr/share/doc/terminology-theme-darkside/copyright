@@ -3,7 +3,10 @@ Upstream-Name: terminology-theme-darkside
 Source: https://github.com/sylveon/terminology-themes
 
 Files: *
-Copyright: 2018 Charles Milette <me@charlesmilette.net>
+Copyright: 2013 Dayle Rees <me@daylerees.com>
+           2014 Arne Bahlo <hallo@arne.me>
+           2016 Mark Badolato <mbadolato@gmail.com>
+           2018 Charles Milette <me@charlesmilette.net>
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify it under
  the terms of the GNU General Public License as published by the Free Software
@@ -19,6 +22,13 @@ License: GPL-3.0+
  .
  On Debian systems, the complete text of the GNU General Public License version
  3 can be found in "/usr/share/common-licenses/GPL-3".
+Comment:
+ Color scheme ported from:
+         https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/xfce4terminal/colorschemes
+ which in turn scheme Darkside was ported from:
+         https://github.com/bahlo/iterm-colors.
+ Itself a port of the Darkside colour-schemes:
+         https://github.com/daylerees/colour-schemes.
 
 Files: debian/*
 Copyright: 2018 Robert Wiley <ylee@bodhilinux.com>

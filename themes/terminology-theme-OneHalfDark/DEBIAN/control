@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Onehalfdark theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Based on Atom's Theme One with some tweakings.
+ .
  see https://charlesmilette.net/terminology-themes/

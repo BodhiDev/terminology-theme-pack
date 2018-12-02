@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Misterioso theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ A port of the emacs Misterioso color theme.
+ .
  see https://charlesmilette.net/terminology-themes/

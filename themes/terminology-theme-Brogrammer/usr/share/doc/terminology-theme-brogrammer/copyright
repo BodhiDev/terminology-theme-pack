@@ -3,7 +3,10 @@ Upstream-Name: terminology-theme-brogrammer
 Source: https://github.com/sylveon/terminology-themes
 
 Files: *
-Copyright: 2018 Charles Milette <me@charlesmilette.net>
+Copyright: 2014 Ken Wheeler <ken_wheeler@me.com>
+           2014 Arne Bahlo <hallo@arne.me>
+           2016 Mark Badolato <mbadolato@gmail.com>
+           2018 Charles Milette <me@charlesmilette.net>
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify it under
  the terms of the GNU General Public License as published by the Free Software
@@ -19,6 +22,13 @@ License: GPL-3.0+
  .
  On Debian systems, the complete text of the GNU General Public License version
  3 can be found in "/usr/share/common-licenses/GPL-3".
+Comment:
+ Color scheme ported from:
+         https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/xfce4terminal/colorschemes
+ which in turn scheme Brogrammer was ported from:
+         https://github.com/bahlo/iterm-colors.
+ Itself a port of the default brogrammer-theme:
+         https://github.com/kenwheeler/brogrammer-theme
 
 Files: debian/*
 Copyright: 2018 Robert Wiley <ylee@bodhilinux.com>

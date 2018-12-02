@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Redplanet theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Based on the Ciapre Dark Sublime/TextMate theme with slight mods.
+ .
  see https://charlesmilette.net/terminology-themes/

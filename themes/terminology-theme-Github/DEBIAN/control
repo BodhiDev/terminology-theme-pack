@@ -8,4 +8,7 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Github theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Inspired by the color theme palette used at Github for 
+ their UI and in some of their mascot images.
+ .
  see https://charlesmilette.net/terminology-themes/

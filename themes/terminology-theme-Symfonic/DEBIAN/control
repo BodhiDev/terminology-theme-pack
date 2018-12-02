@@ -8,4 +8,7 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Symfonic theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ The scheme Symfonic was inspired by the color scheme 
+ used in the documentation for the Symfony PHP Framework.
+ .
  see https://charlesmilette.net/terminology-themes/

@@ -8,4 +8,7 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Neutron theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ An (almost) flat theme in shades of gunmetal and medium-contrast colors.
+ Inspired by Spacegray UI Theme for Sublime Text.UI Theme for Sublime Text
+ .
  see https://charlesmilette.net/terminology-themes/

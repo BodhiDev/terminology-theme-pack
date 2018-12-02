@@ -8,4 +8,10 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Molokai theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Molokai is a port of the monokai theme for TextMate originally created 
+ by Wimer Hazenberg.
+ .
+ By default, it has a dark gray background based on the version created 
+ by Hamish Stuart Macpherson for the E editor.
+ .
  see https://charlesmilette.net/terminology-themes/

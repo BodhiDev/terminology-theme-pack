@@ -8,4 +8,7 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Material theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Light & dark material theme. 
+ Inspired by @NLKNguyen's papercolor-theme and materializecss.
+ . 
  see https://charlesmilette.net/terminology-themes/

@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Clrs theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Based on @mrmrs nicer color palette for the web. http://clrs.cc/
+ .
  see https://charlesmilette.net/terminology-themes/

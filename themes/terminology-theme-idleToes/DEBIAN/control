@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Idletoes theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ A simple, light-on-dark theme. Inspired by the idleFingers TextMate theme.
+ .
  see https://charlesmilette.net/terminology-themes/

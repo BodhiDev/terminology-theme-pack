@@ -8,4 +8,7 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Pencillight theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ A color scheme inspired by iA Writer. 
+ Inspired by @reedes's original vim version,
+ .
  see https://charlesmilette.net/terminology-themes/

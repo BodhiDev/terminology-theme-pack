@@ -8,4 +8,6 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Ubuntu theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Ubuntu-like terminal colors with purple background.
+ .
  see https://charlesmilette.net/terminology-themes/

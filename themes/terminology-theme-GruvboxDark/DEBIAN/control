@@ -8,4 +8,10 @@ Maintainer: Robert Wiley <ylee@bodhilinux.com>
 Description: Gruvboxdark theme for Terminology
  A color scheme for the Terminology terminal emulator.
  .
+ Designed as a bright theme with pastel 'retro groove' colors and 
+ light/dark mode switching in the way of solarized. 
+ .
+ The main focus when developing gruvbox is to keep colors 
+ easily distinguishable, contrast enough and still pleasant for the eyes.
+ .
  see https://charlesmilette.net/terminology-themes/
