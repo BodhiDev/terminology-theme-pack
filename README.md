@@ -22,7 +22,7 @@ sudo apt update
 sudo apt install terminology-theme-pack
 ```
 
-Since each theme is indivually packaged in Bodhi, single  themes can be also be installed for user not wanting all 203 themes. For example, to install the theme solarizeddark:
+Since each theme is indivually packaged in Bodhi, single  themes can be also be installed for user not wanting all 204 themes. For example, to install the theme solarizeddark:
 
 ```
 sudo apt update

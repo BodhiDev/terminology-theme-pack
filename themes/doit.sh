@@ -107,6 +107,7 @@ fakeroot dpkg-deb -b terminology-theme-ManPage terminology-theme-manpage_0.1.1bo
 fakeroot dpkg-deb -b terminology-theme-Material terminology-theme-material_0.1.1bodhi1-1_all.deb
 fakeroot dpkg-deb -b terminology-theme-MaterialDark terminology-theme-materialdark_0.1.1bodhi1-1_all.deb
 fakeroot dpkg-deb -b terminology-theme-Mathias terminology-theme-mathias_0.1.1bodhi1-1_all.deb
+fakeroot dpkg-deb -b terminology-theme-Matrix terminology-theme-matrix_0.1.1bodhi1-1_all.deb
 fakeroot dpkg-deb -b terminology-theme-Medallion terminology-theme-medallion_0.1.1bodhi1-1_all.deb
 fakeroot dpkg-deb -b terminology-theme-Misterioso terminology-theme-misterioso_0.1.1bodhi1-1_all.deb
 fakeroot dpkg-deb -b terminology-theme-Molokai terminology-theme-molokai_0.1.1bodhi1-1_all.deb
